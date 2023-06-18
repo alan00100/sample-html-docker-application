@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: arunmagi/new-html
+        image: alanji/new-html
         ports:
         - containerPort: 80
 ---
