@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: alanji/smu-html
+        image: britoalan1122/smu-html
         ports:
         - containerPort: 80
 ---
