@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: james-html
+        image: britoalan1122/james-html
         ports:
         - containerPort: 80
 ---
